@@ -58,4 +58,5 @@ You can view full document on our [official website](https://pro.ant.design). An
 
 ## i18nremove question
 
-执行 yarn add eslint-config-prettier --dev yarn add eslint-plugin-unicorn --dev 注释文件 node_modules/@umijs/lint/dist/config/eslint/index.js es2022: true
+excute   ```bash yarn add eslint-config-prettier --dev yarn add eslint-plugin-unicorn --dev ```
+modified ```node_modules/@umijs/lint/dist/config/eslint/index.js //es2022: true```
